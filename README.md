@@ -1,4 +1,9 @@
-#1. Thomas (Tommy) Howard
-#2. https://github.com/tommybhoward/gitready
-#3. ghjkihgfghjkjhc
-#4. OBS 31.1.2 and Eclipse 4.34
+Author: Thomas (Tommy) Howard
+
+Git repo: https://github.com/tommybhoward/gitready
+
+Video: ghjkihgfghjkjhc
+
+Streaming software: 
+OBS 31.1.2
+IDE: Eclipse 4.34
